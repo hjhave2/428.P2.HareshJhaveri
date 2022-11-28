@@ -1,4 +1,4 @@
-# 428.P1.HareshJhaveri
+# 428.P2.HareshJhaveri
 # This project runs on Unity version 2021.3.6f1 found in the unity download archive (https://unity3d.com/get-unity/download/archive), 
 # find the version you want and click on the "Unity Hub" button to download it on Unity Hub which can be downloaded at (https://unity3d.com/get-unity/download) and clicking the "Download Unity Hub" button
 # NOTE: You will need to sign up for a Unity account which is free to do
